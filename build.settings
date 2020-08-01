@@ -48,9 +48,9 @@ settings =
 	--
 	plugins = {
 		["plugin.vk.direct"] =
-			{
-				publisherId = "com.coronalabs"
-		 	},
+        {
+            publisherId = "com.coronalabs"
+        },
 	 	["plugin.appodeal"] =
 	 		{
 		 		publisherId = "com.coronalabs"
